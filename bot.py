@@ -16,7 +16,7 @@ alliance_tags = {
     "🏰MOS": "[MOS]",
     "🏰KAT": "[KAT]",
     "🏰TAN": "[TAN]",
-    "🏰TOP": "[TOP]"
+    "🏰SHH": "[SHH]"
 }
 
 @bot.event
